@@ -1,9 +1,7 @@
 # Informativa sulla privacy di Cercafunghi
 
-*Ultimo aggiornamento: [DATA]*
-*Titolare del trattamento: [NOME E COGNOME / RAGIONE SOCIALE], [INDIRIZZO], [EMAIL DI CONTATTO]*
-
-> BOZZA: da rivedere e completare prima della pubblicazione. Non è consulenza legale.
+*Ultimo aggiornamento: 01/10/2026
+*Titolare del trattamento: STEFANO CALLIANO / STEFANO.CALLIANO@GMAIL.COM
 
 ## In breve
 - Non abbiamo server e non raccogliamo i tuoi dati.
@@ -46,7 +44,7 @@ L'app non condivide dati con terzi per marketing o profilazione. Se esporti i tu
 I dati restano finché non li elimini nell'app o non disinstalli l'app. Per rimuovere anche la copia in iCloud: Impostazioni > [il tuo nome] > iCloud > Gestisci spazio.
 
 ## I tuoi diritti
-Poiché non conserviamo i tuoi dati, puoi accedervi, modificarli ed eliminarli direttamente nell'app. Per questioni sulla privacy scrivi a [EMAIL]. Hai inoltre diritto di proporre reclamo al Garante per la protezione dei dati personali (garanteprivacy.it).
+Poiché non conserviamo i tuoi dati, puoi accedervi, modificarli ed eliminarli direttamente nell'app. Per questioni sulla privacy scrivi a STEFANO.CALLIANO@GMAIL.COM. Hai inoltre diritto di proporre reclamo al Garante per la protezione dei dati personali (garanteprivacy.it).
 
 ## Minori
 L'app non è rivolta ai minori e non raccoglie consapevolmente dati su di loro.
